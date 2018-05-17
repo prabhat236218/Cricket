@@ -1,0 +1,261 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-size: 120%;
+	background: #F8F8FF;
+	background-image: url(http://hdwpro.com/wp-content/uploads/2016/03/Best-Cricket-Wallpaper.jpeg);
+}
+h2{
+color:red;
+background-color:transparent;
+ margin-left: 20px;
+ margin-top:20px;
+ margin-right:20px;
+ padding:5px;
+ text-align: center;
+}
+.A{
+	border:2px solid green;
+}
+.header {
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: rgb(113, 191, 194);
+	text-align: center;
+	border: 1px solid rgb(102, 154, 223);
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+form, .content {
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #B0C4DE;
+	background: white;
+	border-radius: 0px 0px 10px 10px;
+}
+#f2{
+	margin-top:20px;
+}
+
+
+.input-group {
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label {
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+.input-group input {
+	height: 30px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}
+.btn1{
+	padding:30px;
+	display: inline-block;
+ margin-left: 300px;
+ margin-right: 20px;
+ margin-top: 200px;
+ margin-bottom: 20px;
+ font-size:20px;
+ color:red;
+ background-color:rgb(211, 223, 102);
+ border: 5px solid rgb(255, 174, 0);
+  border-radius: 30px;
+}
+.btn1:hover{
+	background-color: rgb(145, 255, 0);
+	color:red;
+
+}
+.btn2{
+	padding: 30px;
+	display: inline-block;
+	margin-left: 300px;
+	margin-right:20px;
+	margin-top: 200px;
+	margin-bottom:20px;
+	font-size:50px;
+	background-color:rgb(113, 191, 194);
+    border: 5px solid green;
+    border-radius: 40px;
+}
+ .btn2:hover {
+	background-color: red;
+	color:white;
+}
+#btn5{
+	background-color: #B0C4DE;
+	display: inline-block;
+	color:red;
+	padding:10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+#btn6{
+	background-color: #B0C4DE;
+	display: inline-block;
+	color:red;
+	padding:10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#btn7{
+	background-color: #B0C4DE;
+	display: inline-block;
+	color:red;
+	padding:10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+#btn8{
+	background-color: #B0C4DE;
+	display: inline-block;
+	color:red;
+	padding:10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+#t5{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+#t6{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t7{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t8{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t9{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t10{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t11{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	
+}
+
+#t12{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t13{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t14{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t15{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+#t16{
+	background-color: aqua;
+	color:red;
+	padding:10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	
+}
+.error {
+	width: 92%; 
+	margin: 0px auto; 
+	padding: 10px; 
+	border: 1px solid #a94442; 
+	color: #a94442; 
+	background: #f2dede; 
+	border-radius: 5px; 
+	text-align: left;
+}
+.success {
+	color: #3c763d; 
+	background: #dff0d8; 
+	border: 1px solid #3c763d;
+	margin-bottom: 20px;
+}
